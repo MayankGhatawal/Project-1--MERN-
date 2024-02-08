@@ -24,6 +24,6 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mayank Ghatawal",
   "license": "ISC"
 }
